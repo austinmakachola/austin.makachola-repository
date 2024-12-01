@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @austin103
-- 👀 I’m interested in applied statistics and programming.
-- 🌱 I’m currently learning robotics.
-- 💞️ I’m looking to collaborate on software development and data analysis projects.
-- 📫 How to reach me: Email; upfrontretaile@gmail.com
+- 👋 Hi, I'm Austin
 
-<!---
-austin103/austin103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+- 👀 I’m interested in web app development and general computer programming.
+
+  
+- 🌱 I’m currently getting more granular with server-side technologies.
+
+  
+- 💞️ I’m looking to collaborate on Web development and data science projects.
+
+  
+- 📫 To reach me:Send Email to; upfrontretaile@gmail.com || austinmakachola88@gmail.com 
