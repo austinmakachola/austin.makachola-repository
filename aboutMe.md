@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Austin
 
 
-- 👀 I’m interested in web app development and general computer programming.
+- 👀 I’m interested in web app development and general computer programming (Full-stack).
 
   
 - 🌱 I’m currently getting more granular with server-side technologies.
